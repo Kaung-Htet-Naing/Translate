@@ -1,0 +1,7 @@
+#MySQL ဆိုတာဘာကြီးလဲ ?
+
+MySQl အကြောင်းမပြောခင် Database နဲ့ sql အကြောင်းသိမှရမယ် အဲ့တော့ 
+- **ဘာလဲ Database ဆိုတာက** Database ဆိုတာ data တွေကို စုသိမ်းထားတဲ့နေရာကိုပြောတာပါ data ဆိုတာဘာလဲဆိုတော့ အကုန်လုံးလို့ပြောလိုရတယ် အသက် ၊ အရပ်အတိုင်းအတာ ၊ ဇာတ်ကား ၊ ဓာတ်ပုံ ၊ စာအုပ် ၊ file တွေအကုန်လုံးကလည်း data ပဲ မြန်မာလိုဆို အချက်အလက်ပဲပေါ့  အဲ့တော့ Database ဆိုတာ data တွေစနစ်တကျနဲ့ သိမ်းထားတဲ့ နေရာတစ်ခုပဲ ဥပမာ gallery ဆိုတာ database ကြီးဖြစ်ပြီး photo တွေက data တွေပါပဲ 
+- **နောက်ပြောပြမှာက SQl အကြောင်းပဲ** အရှည်ကောက်က Structured Query Language တစ်ချို့က Sequal လို့လည်းခေါ်တယ် အဲ့တော့ sql က ဘာလုပ်တာလဲဆိုတော့ database နဲ့ user ကို နားလည်အောင် ချိတ်ဆက်ပေးတဲ့ language ပဲ NoSql ဆိုတာလည်းရှိသေးတယ် အခုတော့ sql အကြောင်းပဲ ပြောပြမယ် sql က database ထဲက data တွေကို insert,search,update,delete လုပ်တဲ့နေရာမှာ အသုံးချတယ် နောက်ပြီး data maintance အပြင် တစ်ခြားနေရာတွေမှာလည်းသုံးကြတယ် 
+- **MySQL ဆိုတာကျတော့ SQL ကို သုံးထားတဲ့ database management systemတစ်ခုပဲ** MySql အပြင် ORACEL,SYBASE,MS SQL SERVER,etc တွေကလည်း
+SQL ကိုသုံးထားတဲ့ DBMS(datbase management system)တွေပဲဖြစ်တယ် တစ်ခုနဲ့တစ်ခု syntax တွေကနည်းနည်းတော့မတူကြဘူး MySql က open source software & Free ဆိုတော့လူတိုင်းသုံးလို့ရတယ် sqlကိုအခြေခံထားတဲ့ DBMS ထဲမှာ MySql က ပိုpopularလည်းဖြစ်တယ် ပိုဆရာကျတယ်လို့လည်းပြောလို့ရတယ် ပြီးတော့ Linus,windows,unix စတဲ့ platforms တွေမှာလည်းသုံးလို့ရတယ် server,personal laptop & desktop မှာလည်း install လုပ်လို့ အဆင်ပြေပါတယ်
